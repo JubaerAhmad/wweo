@@ -1,0 +1,45 @@
+@media (min-width: 1500px) {
+    .box .photo img {
+        height: 350px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .card {
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .box .photo img {
+        height: 300px;
+    }
+}
+
+@media (max-width: 600px) {
+    .card {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .box .photo img {
+        height: 300px;
+}
+
+.contact-area {
+    width: 100%;
+}
+
+.link-area{
+    width: 100%;
+    padding-left: 40px;
+}
+
+footer {
+    padding: 60px 0;
+}
+
+footer .footer-area .box {
+    width: 70%;
+}
+
+}
